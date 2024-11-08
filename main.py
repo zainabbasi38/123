@@ -149,4 +149,4 @@ def main_menu():
                     print(f"ERROR OCCURRED: {e}")
 
 if __name__ == "__main__":
-    main_menu()
+    main_menu() 
